@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"capture": true,
+	"capture-res": [640, 480],
+	"capture-warmup": "2",
+	"proc-motion-thresh": "5",
+	"proc-min-area": "1000",
+	"proc-min-motion-frames": "3",
+	"proc-min-delay": "3.0",
+	"dropbox": false,
+	"dropbox-key": "-",
+	"dropbox-secret": "-",
+	"dropbox-token" : "-",
+	"dropbox-path": "/Captures",
+	"displayed-frames": "4",
+	"error": {"capture": false, "dropbox": false}
+}
