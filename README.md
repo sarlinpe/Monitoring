@@ -16,11 +16,11 @@ The AMS was designed to provide an easily-installed solution to this problem.
   * visualize a real-time video live stream 
   * configure several parameters related to the detection and the upload
   * look over the log files
-* Handling of hardware and software problems, including backup of the frames in case of internet connection break down, with regular new attempts to connect
+* Handling of hardware and software problems, including backup of the frames in case of internet connection breakdown, with regular new attempts to connect
 
 ## Hardware
 
-This project uses the Raspberry Pi 3 as the single-board computer and processing unit. Its quadcore feature allows to paralillize the whole process and thus maximize the performances — mainly frame rate and server responsiveness.
+This project uses the Raspberry Pi 3 as the single-board computer and processing unit. Its quadcore feature allows to parallelize the whole process and thus maximize the performances — mainly framerate and server responsiveness.
 Any USB webcam or camera can be used as the capturing device. A wide angle lens is a plus if image distortion is not critical.
 
 ## Software
